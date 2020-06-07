@@ -1,4 +1,4 @@
-# Contributing to Fellowbook
+# Contributing to Slack Clone
 
 Would love input from all passionate developers!  This applies to:
 
