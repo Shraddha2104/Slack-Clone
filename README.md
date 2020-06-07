@@ -33,19 +33,16 @@ Stack:
 ## Screenshots
 
 <h2>Login</h2>
-<img src="1.png"  />
+<img src="login.png"  />
 
 <h2>Register</h2>
-<img src="2.png"  />
+<img src="register.png"  />
 
 <h2>Direct Messages</h2>
-<img src="3.png"  />
+<img src="slack.png"  />
 
-<h2>Comment Box </h2>
-<img src="4.png"  />
-
-<h2>Bookmarking functionality</h2>
-<img src="5.png"  />
+<h2>Home Page </h2>
+<img src="main.png"  />
 
   
   
