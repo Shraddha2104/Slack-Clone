@@ -2,7 +2,7 @@
   
 
 # Slack clone - A real time chat service
-
+![](https://img.shields.io/badge/commit%20activity-+10-blue) ![]( https://github.com/Shraddha2104/Slack-Clone/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/contributors-only%201-blue) ![](https://img.shields.io/badge/version-1.0.0-yellow) ![](https://img.shields.io/badge/learned%20a%20lot-yes-blue)
 
 Stack:
 - React
@@ -70,6 +70,22 @@ This project is licensed under the MIT License - see the
 [LICENSE.md](https://github.com/Shraddha2104/Slack-Clone/blob/master/LICENSE)
 file for details
 
+## Anything else?
+
+Remember the rules!
+
+It's _not_ about:
+
+- how good your code is,
+- how novel the idea is, or
+- how useful the project is.
+
+It _is_ about:
+
+- **Impressive**: People's wows are on record!
+- **Design**: Slick UI with search and a snappy bot 24/7!
+- **Learning**: React, CORS and auth are always tough!
+- **OSS practices**: Plentiful commits, branches, PRs!
 
 
 <h3 align="center"><b>Developed by <a href="https://github.com/Shraddha2104">Shraddha Shaligram</a>.</b></h1>
