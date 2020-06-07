@@ -4,9 +4,6 @@
 # Slack clone - A real time chat service
 ![](https://img.shields.io/badge/commit%20activity-+10-blue) ![]( https://github.com/Shraddha2104/Slack-Clone/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![](https://img.shields.io/badge/build-passing-brightgreen) ![](https://img.shields.io/badge/contributors-only%201-blue) ![](https://img.shields.io/badge/version-1.0.0-yellow) ![](https://img.shields.io/badge/learned%20a%20lot-yes-blue)
 
-Stack:
-- React
-- Firebase
 
 
 ## User stories
