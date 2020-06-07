@@ -30,7 +30,7 @@ Stack:
 <img src="register.png"  />
 
 <h2>Direct Messages</h2>
-<img src="slack.png"  />
+<img src="slack.jpg"  />
 
 <h2>Home Page </h2>
 <img src="main.png"  />
@@ -47,7 +47,7 @@ Possible future improvements:
   
  ## Contributing to Slack-Clone
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to React-News-App, follow these steps:
+To contribute to Slack-Clone, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -67,7 +67,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## License
 
 This project is licensed under the MIT License - see the
-[LICENSE.md](https://github.com/csantiago132/chat-app/blob/develop/LICENSE.md)
+[LICENSE.md](https://github.com/Shraddha2104/Slack-Clone/blob/master/LICENSE)
 file for details
 
 
