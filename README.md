@@ -54,8 +54,22 @@ To contribute to React-News-App, follow these steps:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin https://github.com/Shraddha2104/Slack-Clone`
 5. Create the pull request.
-
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## Built With
+
+- [ReactJS](https://reactjs.org/) - A JavaScript library for building user
+  interfaces
+- [Firebase](https://firebase.google.com/) - Firebase is a Backend as a Service
+  (BaaS) provided by Google.
+- [Semantic UI](https://react.semantic-ui.com/) - UI Styling
+
+## License
+
+This project is licensed under the MIT License - see the
+[LICENSE.md](https://github.com/csantiago132/chat-app/blob/develop/LICENSE.md)
+file for details
+
 
 
 <h3 align="center"><b>Developed by <a href="https://github.com/Shraddha2104">Shraddha Shaligram</a>.</b></h1>
