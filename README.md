@@ -1,13 +1,4 @@
-** I'm not going to actively maintain this repo anymore (since Feb 2017), but feel free to fork the project or create PRs **
 
-Possible future improvements:
-* Refactor both server & client side code
-* Add front end specific tests with e.g. [Jest](https://facebook.github.io/jest/), [enzyme](http://airbnb.io/enzyme/)
-* Considering using CSS-in-JS, e.g. [styled-components](https://styled-components.com)
-* Optimization
-  * More advanced webpack config
-  * Prerendering
-  * Code splitting
   
 
 # Slack clone - A real time chat service
@@ -44,16 +35,24 @@ Stack:
 <h2>Home Page </h2>
 <img src="main.png"  />
 
+ 
+Possible future improvements:
+* Refactor both server & client side code
+* Add front end specific tests with e.g. [Jest](https://facebook.github.io/jest/), [enzyme](http://airbnb.io/enzyme/)
+* Considering using CSS-in-JS, e.g. [styled-components](https://styled-components.com)
+* Optimization
+  * More advanced webpack config
+  * Prerendering
+  * Code splitting 
   
-  
- ## Contributing to React-News-App
+ ## Contributing to Slack-Clone
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to React-News-App, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin https://github.com/Shraddha2104/React-News-App`
+4. Push to the original branch: `git push origin https://github.com/Shraddha2104/Slack-Clone`
 5. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
